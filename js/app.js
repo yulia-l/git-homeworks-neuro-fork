@@ -7,5 +7,5 @@
             coordsEl.parentElement.classList.remove('invisible');
         });
     }
-
+//
 })();
